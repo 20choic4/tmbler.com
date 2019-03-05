@@ -1,0 +1,85 @@
+/* css */
+body {
+	background-color: light-grey;
+}
+
+#header {
+	height: 200px;
+	background-color: #b3e6ff;
+}
+
+#title {
+	color: gray;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 75px;
+	text-align: center;
+}
+
+#navbutton {
+	color: #006ab0;
+	height: 50px;
+	width: 100%;
+	cursor: pointer;
+	background-color: white;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#adverts {
+	margin: 10px;
+	size: 100%;
+}
+
+#abthead {
+	color: #006ab0;
+	font:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#abttext {
+	color:#c5e7ffaf;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.footer {
+	background-color: RGB(240,248,255);
+}
+
+.footertxt {
+	font-family: "Times New Roman", Times, serif;
+	color: grey;
+}
+
+#productsub {
+	text-align: center;
+	text-decoration: underline;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#productsubsub {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#productdivs {
+	width:1250px ;
+}
+
+.product {
+	border: 2px solid navy;
+	height: 300px;
+	width: 300px;
+	margin: 50px;
+	float: left;
+	background-color: white;
+}
+
+
+.productdesc {
+	text-align: center;
+	font: "Times New Roman", Times, serif;
+	color:  #006ab0;
+}
+
+#separator {
+	height: 5px;
+	color: #006ab0
+}
